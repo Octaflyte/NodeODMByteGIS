@@ -18,5 +18,5 @@
 	"testSkipDems": false,
 	"token": "",
 	"authorizedIps": [],
-	"maxImages": "0"
+	"maxImages": 0
 }
